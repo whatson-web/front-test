@@ -1,4 +1,15 @@
 
+## Pour lancer le projet :
+```
+npm run start
+```
+ou ( si installé )
+```
+yarn start
+```
+
+## TasksList
+
 - [ ] 	Créer un faux écran de login ( pas de vérification ni d'appel, username et password en dur OK) managé par redux-form,
 - [ ]   Créer une autre page ( appelons la CRUDManager) sur laquelle on arrive après le login
 - [ ] 	Gérer la persistance du login via redux ( si on recharge après login OK, on arrive sur CRUDMANAGER),
@@ -9,7 +20,8 @@
 - [ ] 	le projet devra supporter sass, et l'object spread operator,
 
 
-Liste des packages recommandés :
+## Liste des packages recommandés :
+
 - [ ] redux
 - [ ] redux-form
 - [ ] redux-thunk
