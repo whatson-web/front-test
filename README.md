@@ -1,4 +1,7 @@
 
+## Avant de commencer : 
+- Forkez le projet, afin de faire une Pull Request une fois le test realisé.
+
 ## Pour lancer le projet :
 ```
 npm run start
