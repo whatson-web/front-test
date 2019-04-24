@@ -22,13 +22,13 @@ yarn start
 - [x]     CRUDManager doit afficher une liste déléments managés par redux. Ces éléments sont l'array data dans le fichier src/data.js,
 - [x]     CRUDManager doit permettre l'édition de chacun des éléments. On utilisera l'array countries ( dans src/data.js) pour proposer un choix des pays via un < select />,
 - [x] Toutes les modifications effectuées sur un item de cette collection devront être persistées en local
-- [] Sur une autre page : faire un appel vers l'API de votre choix et manager la réponse via redux également, tout en affichant une partie de son contenu ( on cherche ici à voir le travail via redux ),
+- [x] Sur une autre page : faire un appel vers l'API de votre choix et manager la réponse via redux également, tout en affichant une partie de son contenu ( on cherche ici à voir le travail via redux ),
 - [x]     le projet devra supporter sass, et l'object spread operator,
 
 ## Liste des packages recommandés :
 
 - [x] redux
 - [x] redux-form
-- [ ] redux-thunk
+- [x] redux-thunk
 - [x] redux-persist
-- [ ] redux-friends
+- [x] redux-friends
