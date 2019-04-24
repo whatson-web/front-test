@@ -1,0 +1,22 @@
+#container {
+  display: inline-block;
+  width: 500px;
+}
+
+#buttonDisconnect {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+
+#buttonNavigate {
+  background-color: #af4c4c;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 85px;
+}
